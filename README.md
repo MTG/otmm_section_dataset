@@ -3,9 +3,11 @@ makam_section_test_dataset
 
 The section test dataset for classical Ottoman-Turkish makam music
 
-This zip file contains the audio section annotations, score for the paper:
+This repository contains the audio section annotations and the scores used in the paper:
 
 Şentürk, S., Holzapfel, A., and Serra, X. (2014). Linking scores and audio recordings in makam music of Turkey. Journal of New Music Research, 43:34–52.
+
+Please cite the publication above in any work using this dataset.
 
 For more information about the dataset, please refer to the paper.
 
