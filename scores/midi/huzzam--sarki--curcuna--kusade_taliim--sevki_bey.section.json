@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Aranagme", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                0.0, 
+                11.977574
+            ]
+        }
+    }, 
+    {
+        "name": "Aranagme", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                11.977574, 
+                24.009428
+            ]
+        }
+    }, 
+    {
+        "name": "Zemin", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                24.009428, 
+                39.008536
+            ]
+        }
+    }, 
+    {
+        "name": "Zemin", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                39.008536, 
+                53.994074
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                53.994074, 
+                71.992098
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat2", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                71.992098, 
+                90.012739
+            ]
+        }
+    }, 
+    {
+        "name": "Meyan", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                90.012739, 
+                108.00624
+            ]
+        }
+    }, 
+    {
+        "name": "Meyan", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                108.00624, 
+                125.999741
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                125.999741, 
+                144.000028
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat2", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                144.000028, 
+                158.955
+            ]
+        }
+    }
+]

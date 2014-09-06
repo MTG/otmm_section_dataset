@@ -1,0 +1,165 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
+            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--gel_guzelim--faiz_kapanci", 
+    "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.0, 
+                18.778411
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                18.778411, 
+                36.533355
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                36.533355, 
+                45.655569
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                45.655569, 
+                54.638725
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                54.638725, 
+                63.49951
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                63.49951, 
+                72.265735
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                72.265735, 
+                81.218298
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                81.218298, 
+                90.165299
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                90.165299, 
+                98.942649
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                98.942649, 
+                107.263888
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                107.263888, 
+                124.685092
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                124.685092, 
+                133.495816
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                133.495816, 
+                142.217542
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                142.217542, 
+                150.805773
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                150.805773, 
+                159.260508
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                159.260508, 
+                168.516218
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                168.516218, 
+                179.373878
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                179.373878, 
+                187.672867
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                187.672867, 
+                195.994107
+            ]
+        }
+    ]
+}

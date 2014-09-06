@@ -1,0 +1,117 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "d4a4f918-c8ca-4d97-bbb0-fb40246caec2", 
+            "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r"
+        }
+    ], 
+    "symbTr": "segah--sarki--murekkepnimsofyan--olursem_yaziktir--hayri_yenigun", 
+    "title": "\u00d6l\u00fcrsem Yaz\u0131kt\u0131r", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.387776, 
+                18.813872
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                18.813872, 
+                28.398297
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                28.398297, 
+                37.882402
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                37.882402, 
+                47.304772
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                47.304772, 
+                56.900772
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                56.900772, 
+                66.334717
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                66.334717, 
+                75.835703
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat3", 
+            "time": [
+                75.835703, 
+                85.103252
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat4", 
+            "time": [
+                85.103252, 
+                94.4417
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat3", 
+            "time": [
+                94.4417, 
+                103.661501
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat4", 
+            "time": [
+                103.661501, 
+                112.358479
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme_not_in_score", 
+            "time": [
+                112.358479, 
+                124.154769
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme_not_in_score", 
+            "time": [
+                124.154769, 
+                137.299592
+            ]
+        }
+    ]
+}

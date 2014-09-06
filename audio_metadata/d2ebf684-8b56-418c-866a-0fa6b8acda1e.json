@@ -1,0 +1,77 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "423ec97c-d4bd-4340-81da-625b1934021b", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
+    "symbTr": "mahur--pesrev--muhammes----tanburi_cemil_bey", 
+    "title": "Mahur Taksim On Tanbur, Mahur Pe\u015frev, Taksim On Kemen\u00e7e", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                0.0, 
+                70.967209
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                70.967209, 
+                117.934
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                117.934, 
+                164.672772
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                164.672772, 
+                209.927997
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                209.927997, 
+                254.194435
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                254.194435, 
+                362.680607
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                362.680607, 
+                408.908571
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                408.908571, 
+                415.3585
+            ]
+        }
+    ]
+}

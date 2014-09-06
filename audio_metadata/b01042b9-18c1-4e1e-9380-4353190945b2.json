@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "01510767-677e-4c52-aed4-3e18e2fd2c61", 
+            "title": "Karc\u0131\u011far Pe\u015frev"
+        }
+    ], 
+    "symbTr": "karcigar--pesrev--cifteduyek----tatyos_efendi", 
+    "title": "Karc\u0131\u011far Pe\u015frev (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.166494, 
+                75.449352
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                75.449352, 
+                113.595532
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                113.603962, 
+                188.362046
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                188.926862, 
+                226.87072
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                226.98977, 
+                302.10944
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                302.10944, 
+                342.644053
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                342.644053, 
+                417.159851
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                417.159851, 
+                456.873301
+            ]
+        }
+    ]
+}

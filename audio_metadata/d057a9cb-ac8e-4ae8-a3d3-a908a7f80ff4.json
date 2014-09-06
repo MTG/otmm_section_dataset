@@ -1,0 +1,157 @@
+{
+    "instrumentation": "solo stringed", 
+    "work_relations": [
+        {
+            "mbid": "ecbd1847-79bd-4083-b9e5-833c90e6d8cc", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ], 
+    "symbTr": "huseyni--sazsemaisi--aksaksemai----tatyos_efendi", 
+    "title": "H\u00fcseyni Saz Semai", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Speech", 
+            "time": [
+                0.0, 
+                5.735916
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Giris_taksim", 
+            "time": [
+                5.735916, 
+                56.985915
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                56.985915, 
+                74.77
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                74.77, 
+                91.0611
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                91.0611, 
+                107.5004
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                107.5004, 
+                124.101623
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                124.101623, 
+                140.785181
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                140.785181, 
+                157.213503
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                157.213503, 
+                173.537536
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                173.537536, 
+                189.598102
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                189.598102, 
+                205.834312
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                205.834312, 
+                221.185435
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                221.185435, 
+                237.36264
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                237.36264, 
+                253.412227
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                253.412227, 
+                295.698828
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                295.698828, 
+                312.692509
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                312.692509, 
+                329.159254
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Ara_taksim", 
+            "time": [
+                329.159254, 
+                386.661128
+            ]
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ], 
+    "symbTr": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+    "title": "K\u00fcrdilihicazkar Pe\u015frevi / Ehl-i A\u015fk\u0131n", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.460454, 
+                38.462878
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                38.462878, 
+                65.331572
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Ehl-i_askin", 
+            "time": [
+                65.331572, 
+                204.907409
+            ]
+        }
+    ]
+}

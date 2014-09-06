@@ -1,0 +1,69 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "4f6e9373-860f-4bcb-a661-b994feacab48", 
+            "title": "Aman Saki"
+        }
+    ], 
+    "symbTr": "huzzam--sarki--curcuna--kusade_taliim--sevki_bey", 
+    "title": "K\u00fc\u015fade Taliim Hem Baht\u0131m Uygun", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.243782, 
+                13.164234
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                13.164234, 
+                26.070974
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                26.070974, 
+                42.539979
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                42.539979, 
+                58.312682
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                58.312682, 
+                73.817225
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                73.817225, 
+                90.296896
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                90.296896, 
+                105.874573
+            ]
+        }
+    ]
+}

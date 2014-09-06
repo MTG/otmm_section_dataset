@@ -1,0 +1,205 @@
+{
+    "instrumentation": "instrumental solo with accompaniment", 
+    "work_relations": [
+        {
+            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
+            "title": "Hicran oku sinem deler"
+        }
+    ], 
+    "symbTr": "huseyni--sarki--turkaksagi--hicran_oku--sevki_bey", 
+    "title": "Hicran Oku Sinem Deler", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.423792, 
+                14.219965
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                14.219965, 
+                27.835284
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                27.835284, 
+                34.65914
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                34.65914, 
+                41.472198
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                41.472198, 
+                48.242067
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                48.242067, 
+                54.968748
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                54.968748, 
+                61.717022
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                61.717022, 
+                68.400514
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                68.400514, 
+                75.062411
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                75.062411, 
+                81.605538
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                81.605538, 
+                88.278232
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                88.278232, 
+                94.799765
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                94.799765, 
+                108.037181
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                108.037181, 
+                121.274597
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                121.274597, 
+                127.914899
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                127.914899, 
+                134.525509
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                134.525509, 
+                141.001154
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                141.001154, 
+                147.479498
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                147.479498, 
+                154.006429
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                154.006429, 
+                160.554955
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                160.554955, 
+                167.022502
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                167.022502, 
+                173.403671
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                173.403671, 
+                179.730853
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                179.730853, 
+                187.979944
+            ]
+        }
+    ]
+}

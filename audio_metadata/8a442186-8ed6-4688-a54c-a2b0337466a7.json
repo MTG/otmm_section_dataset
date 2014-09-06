@@ -1,0 +1,93 @@
+{
+    "instrumentation": "instrumental ensemble", 
+    "work_relations": [
+        {
+            "mbid": "c6e43ac6-4a18-42ab-bcc4-46e29360051e", 
+            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+        }
+    ], 
+    "symbTr": "ussak--sarki--duyek--aksam_oldu_huzunlendim--semahat_ozdenses", 
+    "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.4644, 
+                20.9908
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                19.8763, 
+                37.1055
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                37.2448, 
+                50.2015
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                50.248, 
+                53.6381
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                53.6845, 
+                70.9137
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                71.0066, 
+                88.2358
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                88.4216, 
+                105.6972
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                105.5115, 
+                118.9326
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat3", 
+            "time": [
+                121.2082, 
+                135.0937
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                135.1401, 
+                139.8306
+            ]
+        }
+    ]
+}

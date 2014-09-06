@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "6f2b316f-f951-4453-9233-2b62e16fcd05", 
+            "title": "Ferahfeza Pe\u015frev"
+        }
+    ], 
+    "symbTr": "ferahfeza--pesrev--muhammes----tanburi_cemil_bey", 
+    "title": "Ferahfeza Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                49.692997
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                49.692997, 
+                69.427984
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                69.427984, 
+                126.235795
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                126.235795, 
+                144.782851
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                144.782851, 
+                199.632066
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                199.632066, 
+                217.88001
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                217.88001, 
+                273.862869
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim2", 
+            "time": [
+                273.862869, 
+                298.404933
+            ]
+        }
+    ]
+}

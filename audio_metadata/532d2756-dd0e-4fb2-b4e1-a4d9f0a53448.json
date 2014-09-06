@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "9e8af54e-4ba1-4ac6-b5b2-db34ecd860ec", 
+            "title": "Evc\u00e2r\u00e2 Saz Sem\u00e2\u00eesi"
+        }
+    ], 
+    "symbTr": "evcara--sazsemaisi--aksaksemai----dilhayat_kalfa", 
+    "title": "Evcara Saz Semaisi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.1791, 
+                40.99121
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                40.99121, 
+                59.230569
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                59.230569, 
+                104.66016
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                104.66016, 
+                122.726595
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                122.726595, 
+                159.139438
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                159.139438, 
+                177.354093
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                177.354093, 
+                272.906926
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                272.906926, 
+                290.660451
+            ]
+        }
+    ]
+}

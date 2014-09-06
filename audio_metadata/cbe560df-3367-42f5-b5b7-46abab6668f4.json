@@ -1,0 +1,77 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "35de9f7a-fbdf-4f59-80f5-82aee2ab7d78", 
+            "title": "Muhayyerk\u00fcrdi Pe\u015frev"
+        }
+    ], 
+    "symbTr": "muhayyerkurdi--pesrev--devrikebir----asdik_aga", 
+    "title": "Muhayyerk\u00fcrdi Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.385613, 
+                25.157896
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                25.157896, 
+                50.379619
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                50.379619, 
+                76.431072
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                76.431072, 
+                102.099573
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                102.099573, 
+                127.948913
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                127.948913, 
+                153.585501
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                153.585501, 
+                179.562492
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                179.562492, 
+                204.901227
+            ]
+        }
+    ]
+}

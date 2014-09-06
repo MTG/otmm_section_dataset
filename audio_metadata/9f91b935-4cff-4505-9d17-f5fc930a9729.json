@@ -1,0 +1,93 @@
+{
+    "instrumentation": "solo stringed", 
+    "work_relations": [
+        {
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ], 
+    "symbTr": "muhayyer--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+    "title": "Muhayyer Saz Semai (Tanburi Cemil Bey)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                18.120493
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                18.120493, 
+                39.964998
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                39.964998, 
+                56.901869
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                56.901869, 
+                78.198557
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                78.198557, 
+                103.477554
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                103.477554, 
+                124.158305
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                124.158305, 
+                140.541683
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                140.541683, 
+                155.681832
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                155.681832, 
+                176.629395
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                176.629395, 
+                198.190057
+            ]
+        }
+    ]
+}

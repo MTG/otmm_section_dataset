@@ -1,0 +1,53 @@
+{
+    "instrumentation": "solo with percussion", 
+    "work_relations": [
+        {
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "title": "Isfahan Pe\u015frev"
+        }
+    ], 
+    "symbTr": "isfahan--pesrev--devrikebir----tanburi_cemil_bey", 
+    "title": "Isfahan Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                0.0, 
+                9.559688
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                9.559688, 
+                71.702145
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                71.702145, 
+                131.914712
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                131.914712, 
+                189.093313
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                189.093313, 
+                242.295443
+            ]
+        }
+    ]
+}

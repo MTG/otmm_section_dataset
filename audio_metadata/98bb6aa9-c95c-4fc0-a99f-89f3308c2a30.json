@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "8066bf4c-03d8-430a-a364-eeaf445a4a79", 
+            "title": "Hic\u00e2z Saz Sem\u00e2\u00ee"
+        }
+    ], 
+    "symbTr": "hicaz--sazsemaisi--aksaksemai----muhittin_erev", 
+    "title": "Hic\u00e2z Saz Sem\u00e2\u00ee (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.053005, 
+                26.74106
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                26.74106, 
+                54.418544
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                54.418544, 
+                82.193203
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                82.193203, 
+                110.268224
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                110.268224, 
+                138.537598
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                138.537598, 
+                168.00842
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                168.00842, 
+                210.3728
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                210.3728, 
+                238.982215
+            ]
+        }
+    ]
+}

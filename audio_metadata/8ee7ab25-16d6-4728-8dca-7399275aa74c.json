@@ -1,0 +1,45 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "28fa678e-2a5e-4d2a-ac78-b116b2794bdf", 
+            "title": "H\u00fcseyn\u00ee Pe\u015frev"
+        }
+    ], 
+    "symbTr": "huseyni--pesrev--devrikebir----kul_mehmet", 
+    "title": "H\u00fcseyn\u00ee Pe\u015frev (Mansur Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                79.092914
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                79.092914, 
+                156.666898
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                156.666898, 
+                235.904472
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                235.904472, 
+                319.491152
+            ]
+        }
+    ]
+}

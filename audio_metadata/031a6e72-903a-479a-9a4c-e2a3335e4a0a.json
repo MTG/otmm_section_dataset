@@ -1,0 +1,61 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "3601efbc-b05b-4f54-ba07-584a842de72e", 
+            "title": "Mahur Pe\u015frevi"
+        }
+    ], 
+    "symbTr": "mahur--pesrev--duyek----gazi_giray_han", 
+    "title": "Mahur Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.623518, 
+                27.601063
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                27.601063, 
+                68.081235
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                68.081235, 
+                105.457674
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                105.457674, 
+                120.328578
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                120.328578, 
+                147.488768
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                147.488768, 
+                186.832213
+            ]
+        }
+    ]
+}

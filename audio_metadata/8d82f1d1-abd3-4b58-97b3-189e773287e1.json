@@ -1,0 +1,37 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "211a71a2-cd77-4948-9566-0315988329e5", 
+            "title": "Hicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
+    "symbTr": "hicazkar--pesrev--muhammes----tanburi_cemil_bey", 
+    "title": "Hicazkar Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.350241, 
+                61.18196
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                61.18196, 
+                92.968615
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                92.968615, 
+                98.6848
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "instrumentation": "instrumental ensemble", 
+    "work_relations": [
+        {
+            "mbid": "9aaf5c0b-4642-40fd-97ba-c861265872ce", 
+            "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--gel_guzelim--faiz_kapanci", 
+    "title": "Gel G\u00fczelim \u00c7aml\u0131ca'ya", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.0, 
+                16.183139
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                16.183139, 
+                32.124411
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                32.124411, 
+                40.237968
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                40.237968, 
+                48.395501
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                48.395501, 
+                56.421107
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                56.421107, 
+                64.358761
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                64.358761, 
+                72.582258
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                72.582258, 
+                82.344913
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                82.344913, 
+                90.480458
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                90.480458, 
+                98.4401
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                98.4401, 
+                114.07354
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                114.07354, 
+                129.948847
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                129.948847, 
+                136.594709
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                136.594709, 
+                145.912107
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                145.912107, 
+                153.849761
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                153.849761, 
+                161.721451
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                161.721451, 
+                169.81302
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                169.81302, 
+                179.545441
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                179.545441, 
+                187.760693
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                187.760693, 
+                195.604898
+            ]
+        }
+    ]
+}

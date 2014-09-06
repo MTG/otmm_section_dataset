@@ -1,0 +1,85 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "32a9c5dc-1e57-47dc-9b97-6e0a611df9e4", 
+            "title": "M\u00e2h\u00fbr Pe\u015frevi"
+        }
+    ], 
+    "symbTr": "mahur--pesrev--hafif----rauf_yekta", 
+    "title": "M\u00e2h\u00fbr Pe\u015frev (Mansur Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.115183, 
+                34.038343
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                34.038343, 
+                66.903914
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                66.903914, 
+                98.959712
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                98.959712, 
+                132.188283
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                132.188283, 
+                166.310396
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                166.310396, 
+                200.153277
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                200.153277, 
+                235.168932
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                235.168932, 
+                271.133974
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                271.133974, 
+                273.3917
+            ]
+        }
+    ]
+}

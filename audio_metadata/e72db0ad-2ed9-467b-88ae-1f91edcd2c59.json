@@ -1,0 +1,77 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ], 
+    "symbTr": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+    "title": "U\u015f\u015f\u00e2k Saz Sem\u00e2\u00eesi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                32.019592
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                32.019592, 
+                52.298594
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                52.298594, 
+                84.076553
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                84.076553, 
+                104.315646
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                104.315646, 
+                135.270748
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                135.270748, 
+                155.314457
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                156.136902, 
+                220.119365
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                220.119365, 
+                246.193804
+            ]
+        }
+    ]
+}

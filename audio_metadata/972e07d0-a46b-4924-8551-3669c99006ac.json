@@ -1,0 +1,109 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "9e8af54e-4ba1-4ac6-b5b2-db34ecd860ec", 
+            "title": "Evc\u00e2r\u00e2 Saz Sem\u00e2\u00eesi"
+        }
+    ], 
+    "symbTr": "evcara--sazsemaisi--aksaksemai----dilhayat_kalfa", 
+    "title": "Evc\u00e2r\u00e2 Saz Sem\u00e2\u00eesi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.109479, 
+                30.933523
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                30.933523, 
+                44.395683
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                44.395683, 
+                58.107003
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                58.107003, 
+                90.769542
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                90.769542, 
+                103.90704
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                103.90704, 
+                117.180443
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                117.180443, 
+                143.500741
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                143.500741, 
+                156.65334
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                156.65334, 
+                169.851241
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                169.851241, 
+                227.928043
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                227.928043, 
+                247.596539
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                247.596539, 
+                267.6652
+            ]
+        }
+    ]
+}

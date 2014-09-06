@@ -1,0 +1,61 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "3863e5b2-4b74-4a2c-8250-90356510b925", 
+            "title": "Ezelden A\u015finan\u0131m Ben"
+        }
+    ], 
+    "symbTr": "huseyni--sarki--aksak--ezelden_asinanim--serif_icli", 
+    "title": "Ezelden A\u015finan\u0131m Ben Ezelden", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.237646, 
+                21.295266
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                21.295266, 
+                42.456522
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                42.456522, 
+                63.739281
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                63.739281, 
+                85.141756
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                85.141756, 
+                106.515642
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                106.515642, 
+                127.110477
+            ]
+        }
+    ]
+}

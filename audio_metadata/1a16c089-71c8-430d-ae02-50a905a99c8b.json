@@ -1,0 +1,45 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
+            "title": "Z\u00e2vil Pe\u015frev"
+        }
+    ], 
+    "symbTr": "zavil--pesrev--hafif----zeki_mehmed_aga", 
+    "title": "Z\u00e2vil Pe\u015frev (Mansur Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.118821, 
+                99.311437
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                99.311437, 
+                197.808105
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                197.808105, 
+                298.556706
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                298.556706, 
+                401.568558
+            ]
+        }
+    ]
+}

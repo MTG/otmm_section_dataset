@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "title": "Isfah\u00e2n Saz Sem\u00e2\u00ee"
+        }
+    ], 
+    "symbTr": "isfahan--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+    "title": "Isfah\u00e2n Saz Sem\u00e2\u00ee (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.125887, 
+                28.51451
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                28.51451, 
+                57.404549
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                57.404549, 
+                83.998746
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                83.998746, 
+                111.600041
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                111.600041, 
+                138.808739
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                138.808739, 
+                166.802631
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                166.802631, 
+                273.657366
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                273.657366, 
+                301.378147
+            ]
+        }
+    ]
+}

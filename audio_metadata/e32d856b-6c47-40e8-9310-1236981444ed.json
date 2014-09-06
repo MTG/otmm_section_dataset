@@ -1,0 +1,77 @@
+{
+    "instrumentation": "solo stringed", 
+    "work_relations": [
+        {
+            "mbid": "1eb2ca1e-249b-424c-9ff5-0e1561590257", 
+            "title": "\u015eedaraban Sazsemaisi"
+        }
+    ], 
+    "symbTr": "sedaraban--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+    "title": "\u015eedd-i Araban Sazsemaisi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                29.33904
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                29.33904, 
+                58.99931
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                58.99931, 
+                93.54942
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                93.54942, 
+                124.146612
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                124.146612, 
+                164.246869
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                164.246869, 
+                194.554061
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                194.554061, 
+                279.22057
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                279.22057, 
+                312.530374
+            ]
+        }
+    ]
+}

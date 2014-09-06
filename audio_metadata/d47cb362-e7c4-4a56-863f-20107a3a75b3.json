@@ -1,0 +1,45 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "01412a5d-1858-43b3-b5b0-78f383675e9b", 
+            "title": "Acem A\u015f\u00eer\u00e2n Pe\u015frev"
+        }
+    ], 
+    "symbTr": "acemasiran--pesrev--devrikebir----neyzen_salih_dede", 
+    "title": "Acem A\u015f\u00eer\u00e2n Pe\u015frev (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                66.590802
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                66.590802, 
+                132.361944
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                132.361944, 
+                195.362696
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                195.362696, 
+                257.375848
+            ]
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "06ed2bb0-5fea-4e48-9a33-2e1657e5f79a", 
+            "title": "Hicran oku sinem deler"
+        }
+    ], 
+    "symbTr": "huseyni--sarki--turkaksagi--hicran_oku--sevki_bey", 
+    "title": "Hicran Oku Sinem Deler", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.251456, 
+                14.552859
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                14.552859, 
+                22.23502
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                22.23502, 
+                30.12612
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                30.12612, 
+                37.920038
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                37.920038, 
+                45.655648
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                45.655648, 
+                53.527312
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                53.527312, 
+                61.709954
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                61.709954, 
+                69.581618
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                69.581618, 
+                77.108289
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                77.108289, 
+                93.352098
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                93.352098, 
+                101.612486
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                101.612486, 
+                109.761115
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                109.761115, 
+                117.938899
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                117.938899, 
+                125.922321
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                125.922321, 
+                134.051514
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                134.051514, 
+                142.373854
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                142.373854, 
+                150.572289
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                150.572289, 
+                158.580006
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                158.580006, 
+                166.782085
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                166.782085, 
+                172.90449
+            ]
+        }
+    ]
+}

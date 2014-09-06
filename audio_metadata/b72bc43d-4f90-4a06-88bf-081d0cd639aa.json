@@ -1,0 +1,85 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "title": "S\u00fbz-i Dil Pe\u015frev"
+        }
+    ], 
+    "symbTr": "suzidil--pesrev--devrikebir----tanburi_ali_efendi", 
+    "title": "Suzidil Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.058315, 
+                49.794829
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                49.794829, 
+                75.760328
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                75.760328, 
+                123.373973
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                123.373973, 
+                148.304126
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                148.304126, 
+                194.726918
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                194.726918, 
+                218.724032
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                218.724032, 
+                262.167646
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                262.167646, 
+                287.376074
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                287.376074, 
+                291.2247
+            ]
+        }
+    ]
+}

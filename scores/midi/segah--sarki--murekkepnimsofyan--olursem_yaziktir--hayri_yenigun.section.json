@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Aranagme", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                0.0, 
+                23.999505
+            ]
+        }
+    }, 
+    {
+        "name": "Aranagme", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                23.999505, 
+                47.99823
+            ]
+        }
+    }, 
+    {
+        "name": "Zemin", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                47.99823, 
+                59.999543
+            ]
+        }
+    }, 
+    {
+        "name": "Zemin", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                59.999543, 
+                71.990325
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                71.990325, 
+                83.996903
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat2", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                83.996903, 
+                95.994901
+            ]
+        }
+    }, 
+    {
+        "name": "Meyan", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                95.994901, 
+                107.985097
+            ]
+        }
+    }, 
+    {
+        "name": "Meyan2", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                107.985097, 
+                119.980408
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat3", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                119.980408, 
+                131.992381
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat4", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                131.992381, 
+                143.986939
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat3", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                143.986939, 
+                155.98585
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat4", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                155.98585, 
+                167.85
+            ]
+        }
+    }
+]

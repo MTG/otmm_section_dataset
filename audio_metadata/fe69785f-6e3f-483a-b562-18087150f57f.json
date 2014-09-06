@@ -1,0 +1,29 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
+            "title": "Sab\u00e2 Pe\u015frev"
+        }
+    ], 
+    "symbTr": "saba--pesrev--devrikebir----tanburi_buyuk_osman_bey", 
+    "title": "Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.095052, 
+                83.34181
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                83.34181, 
+                111.484965
+            ]
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "instrumentation": "solo stringed", 
+    "work_relations": [
+        {
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ], 
+    "symbTr": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+    "title": "U\u015f\u015fak Saz Semaisi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                29.176677
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                29.176677, 
+                47.393142
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                47.393142, 
+                65.266351
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                65.266351, 
+                92.662892
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                92.662892, 
+                110.528119
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                110.528119, 
+                127.882455
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                127.882455, 
+                155.163247
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                155.163247, 
+                172.812942
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                172.812942, 
+                190.215173
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                190.215173, 
+                240.446156
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                240.446156, 
+                259.67642
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                259.67642, 
+                278.451672
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "instrumentation": "solo stringed", 
+    "work_relations": [
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ], 
+    "symbTr": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+    "title": "K\u00fcrdilihicazkar Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                40.166139
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                40.166139, 
+                65.18349
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                65.18349, 
+                103.74007
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                103.74007, 
+                131.474007
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                131.474007, 
+                162.762082
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                162.762082, 
+                188.952007
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                188.952007, 
+                228.134932
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                228.134932, 
+                253.59655
+            ]
+        }
+    ]
+}

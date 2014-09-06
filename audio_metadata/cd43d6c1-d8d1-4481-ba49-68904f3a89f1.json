@@ -1,0 +1,77 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "db260504-980d-4a3b-8dff-90966c2989f6", 
+            "title": "H\u00fcseyni Pe\u015frev"
+        }
+    ], 
+    "symbTr": "huseyni--pesrev--muhammes----lavtaci_andon", 
+    "title": "H\u00fcseyni Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                52.836259
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                52.836259, 
+                78.713977
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                78.713977, 
+                129.087379
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                129.087379, 
+                154.725899
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                154.725899, 
+                204.585468
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                204.585468, 
+                230.228417
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                230.228417, 
+                282.152179
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                282.152179, 
+                310.266975
+            ]
+        }
+    ]
+}

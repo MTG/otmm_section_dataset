@@ -1,0 +1,61 @@
+{
+    "instrumentation": "instrumental ensemble", 
+    "work_relations": [
+        {
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin", 
+    "title": "Bir \u0130htimal Daha Var", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.65016, 
+                28.6534
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                29.0249, 
+                56.1459
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                56.3316, 
+                82.5702
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                82.8488, 
+                109.0409
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                108.8551, 
+                157.8957
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                157.9421, 
+                162.261
+            ]
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "instrumentation": "solo singing", 
+    "work_relations": [
+        {
+            "mbid": "ff8836b8-ee9b-4351-b30c-03b2aac0dc25", 
+            "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--koklasam_saclarini--artaki_candan", 
+    "title": "Nihavend Aksak \u015eark\u0131", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.561089, 
+                18.066189
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                18.066189, 
+                36.19472
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                36.19472, 
+                55.02684
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                55.02684, 
+                73.671931
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                73.671931, 
+                92.250225
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                92.250225, 
+                111.398514
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                111.398514, 
+                130.635866
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                130.635866, 
+                150.478837
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                150.478837, 
+                158.453
+            ]
+        }
+    ]
+}

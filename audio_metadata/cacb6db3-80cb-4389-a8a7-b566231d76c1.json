@@ -1,0 +1,37 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "1d7aa01a-8bf2-43e1-b972-714699db563d", 
+            "title": "Nihavend Pe\u015frev"
+        }
+    ], 
+    "symbTr": "nihavent--pesrev--devrikebir----tanburi_buyuk_osman_bey", 
+    "title": "Nihavend Pe\u015frev (1. Hane - Teslim)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.914215, 
+                72.24663
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                72.24663, 
+                95.38726
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                95.38726, 
+                99.0099
+            ]
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "4b6540da-6806-4521-aa86-389615d475e7", 
+            "title": "Sab\u00e2 Pe\u015frev"
+        }
+    ], 
+    "symbTr": "saba--pesrev--devrikebir----tanburi_buyuk_osman_bey", 
+    "title": "Sab\u00e2 Pe\u015frev (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.139214, 
+                94.119467
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                94.119467, 
+                125.360547
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                125.360547, 
+                222.842571
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                222.842571, 
+                254.583395
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                254.583395, 
+                347.864007
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                347.864007, 
+                379.490603
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                379.490603, 
+                474.198323
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                474.198323, 
+                506.910806
+            ]
+        }
+    ]
+}

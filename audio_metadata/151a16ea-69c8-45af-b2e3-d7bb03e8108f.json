@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "5acbd63f-63fa-4070-a2a2-79e2940de768", 
+            "title": "Rast Pe\u015frev"
+        }
+    ], 
+    "symbTr": "rast--pesrev--devrikebir----giriftzen_asim_bey", 
+    "title": "Rast Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                49.550924
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                49.550924, 
+                76.812297
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                76.812297, 
+                124.111101
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                124.111101, 
+                150.904891
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                150.904891, 
+                197.94631
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                197.94631, 
+                224.028002
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                224.028002, 
+                274.269576
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                274.269576, 
+                302.084327
+            ]
+        }
+    ]
+}

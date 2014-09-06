@@ -1,0 +1,53 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "820b3011-67ba-4dbd-b249-2fd3008ac032", 
+            "title": "Isfahan Pe\u015frev"
+        }
+    ], 
+    "symbTr": "isfahan--pesrev--devrikebir----tanburi_cemil_bey", 
+    "title": "\u0130sfahan Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.152306, 
+                38.138309
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                38.138309, 
+                74.5361
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                74.539504, 
+                110.363033
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                110.363033, 
+                146.005441
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                146.005441, 
+                149.55102
+            ]
+        }
+    ]
+}

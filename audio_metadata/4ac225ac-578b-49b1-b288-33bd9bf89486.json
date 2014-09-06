@@ -1,0 +1,29 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "e3691957-a2bd-4e40-8041-582af3a02b4e", 
+            "title": "K\u00fcrdilihicazkar Pe\u015frev"
+        }
+    ], 
+    "symbTr": "kurdilihicazkar--pesrev--agirduyek----vasilaki", 
+    "title": "K\u00fcrdili Hicazkar Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                40.476509
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                40.476509, 
+                67.670313
+            ]
+        }
+    ]
+}

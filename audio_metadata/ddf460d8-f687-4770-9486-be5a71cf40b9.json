@@ -1,0 +1,77 @@
+{
+    "instrumentation": "instrumental ensemble", 
+    "work_relations": [
+        {
+            "mbid": "3863e5b2-4b74-4a2c-8250-90356510b925", 
+            "title": "Ezelden A\u015finan\u0131m Ben"
+        }
+    ], 
+    "symbTr": "huseyni--sarki--aksak--ezelden_asinanim--serif_icli", 
+    "title": "Ezelden A\u015finan\u0131m", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.061244, 
+                18.933014
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                18.933014, 
+                38.076006
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                38.076006, 
+                57.236497
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                57.236497, 
+                76.449482
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                76.449482, 
+                95.609972
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                95.609972, 
+                114.94107
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                114.94107, 
+                134.035942
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                134.035942, 
+                154.255071
+            ]
+        }
+    ]
+}

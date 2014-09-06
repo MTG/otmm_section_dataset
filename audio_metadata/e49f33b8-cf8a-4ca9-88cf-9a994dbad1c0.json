@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ], 
+    "symbTr": "segah--pesrev--devrikebir----yusuf_pasa", 
+    "title": "Segah Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                45.082878
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                45.082878, 
+                88.241254
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                88.241254, 
+                130.142035
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                130.142035, 
+                171.337801
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                171.337801, 
+                211.504625
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                211.504625, 
+                252.300247
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                252.300247, 
+                293.22925
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                293.22925, 
+                335.620683
+            ]
+        }
+    ]
+}

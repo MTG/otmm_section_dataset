@@ -1,0 +1,101 @@
+{
+    "instrumentation": "solo with percussion", 
+    "work_relations": [
+        {
+            "mbid": "128bbaa3-e7f2-417e-924e-0eac99880556", 
+            "title": "Isfah\u00e2n Saz Sem\u00e2\u00ee"
+        }
+    ], 
+    "symbTr": "isfahan--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+    "title": "Isfahan Sazsemaisi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.462264, 
+                20.166266
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                20.166266, 
+                39.408005
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                39.408005, 
+                58.38972
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                58.38972, 
+                77.371434
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                77.371434, 
+                95.883662
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                95.883662, 
+                114.338107
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                114.338107, 
+                134.056556
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                134.056556, 
+                217.726337
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                217.726337, 
+                237.950386
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                237.950386, 
+                252.085552
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                252.085552, 
+                256.989884
+            ]
+        }
+    ]
+}

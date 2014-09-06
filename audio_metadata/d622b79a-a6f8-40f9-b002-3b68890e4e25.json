@@ -1,0 +1,37 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "1d7aa01a-8bf2-43e1-b972-714699db563d", 
+            "title": "Nihavend Pe\u015frev"
+        }
+    ], 
+    "symbTr": "nihavent--pesrev--devrikebir----tanburi_buyuk_osman_bey", 
+    "title": "A\u011f\u0131z Armonikasi Refakatinde Tanbur", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.852558, 
+                80.711044
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                80.711044, 
+                107.343656
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                107.343656, 
+                463.529423
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ], 
+    "symbTr": "segah--pesrev--devrikebir----yusuf_pasa", 
+    "title": "Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                47.512036
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                47.512036, 
+                95.712653
+            ]
+        }
+    ]
+}

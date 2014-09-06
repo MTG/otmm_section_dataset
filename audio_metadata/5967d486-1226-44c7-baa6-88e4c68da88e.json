@@ -1,0 +1,77 @@
+{
+    "instrumentation": "instrumental solo with accompaniment", 
+    "work_relations": [
+        {
+            "mbid": "f8a79c74-cb05-328a-924e-fc751733763b", 
+            "title": "Kimseye Etmem \u015eikayet"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--curcuna--kimseye_etmem--kemani_sarkis_efendi", 
+    "title": "Kimseye Etmem \u015eikayet", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.288978, 
+                22.545276
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                22.545276, 
+                44.617226
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                44.617226, 
+                66.704123
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                66.704123, 
+                88.776073
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                88.776073, 
+                110.838058
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                110.838058, 
+                133.049514
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                133.049514, 
+                155.09157
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                155.09157, 
+                175.599052
+            ]
+        }
+    ]
+}

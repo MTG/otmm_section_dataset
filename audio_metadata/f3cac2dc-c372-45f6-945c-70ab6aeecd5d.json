@@ -1,0 +1,69 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "270f55e1-d479-47d0-832f-930a2d20f90a", 
+            "title": "Suzinak Pe\u015frev"
+        }
+    ], 
+    "symbTr": "suzinak--pesrev--cember----tatyos_efendi", 
+    "title": "Suzinak Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                1.048599, 
+                58.14599
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                58.14599, 
+                77.589734
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                77.589734, 
+                134.744186
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                134.744186, 
+                153.915857
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                153.915857, 
+                210.785004
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                210.785004, 
+                229.514245
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                229.514245, 
+                235.4039
+            ]
+        }
+    ]
+}

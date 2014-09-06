@@ -1,0 +1,29 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "995e922d-ef6a-456a-b1e0-23250330d188", 
+            "title": "Hicaz Pe\u015frev"
+        }
+    ], 
+    "symbTr": "hicaz--pesrev--fahte----neyzen_salim_bey", 
+    "title": "Hicaz Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.230971, 
+                66.967076
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                66.967076, 
+                98.187928
+            ]
+        }
+    ]
+}

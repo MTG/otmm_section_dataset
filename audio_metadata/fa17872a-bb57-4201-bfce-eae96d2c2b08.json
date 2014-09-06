@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "6660aaa1-95ec-44f7-a3dd-1dbfa0c01107", 
+            "title": "Sab\u00e2 Saz Sem\u00e2\u00ee"
+        }
+    ], 
+    "symbTr": "saba--sazsemaisi--aksaksemai----neyzen_aziz_dede", 
+    "title": "Sab\u00e2 Saz Sem\u00e2\u00ee (Mansur Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.099442, 
+                26.964604
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                26.964604, 
+                52.477698
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                52.477698, 
+                78.381583
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                78.381583, 
+                104.304
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                104.304, 
+                130.133525
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                130.133525, 
+                156.539856
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                156.539856, 
+                221.187914
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                221.187914, 
+                246.980144
+            ]
+        }
+    ]
+}

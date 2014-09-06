@@ -1,0 +1,93 @@
+{
+    "instrumentation": "instrumental ensemble", 
+    "work_relations": [
+        {
+            "mbid": "b828b736-c0bc-4cf3-9842-eca119178dbe", 
+            "title": "G\u00fcl\u015fenin H\u00fcsn\u00fcne Kimler Var\u0131yor"
+        }
+    ], 
+    "symbTr": "hicaz--sarki--aksak--gulsen-i_husnune--rifat_bey", 
+    "title": "G\u00fcl\u015fen-i H\u00fcsn\u00fcne", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.0, 
+                12.881655
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                12.881655, 
+                25.331
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                25.331, 
+                35.227382
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                35.227382, 
+                45.147133
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                45.147133, 
+                54.85657
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                54.85657, 
+                64.057752
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                64.057752, 
+                73.749664
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                73.749664, 
+                83.885569
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                83.885569, 
+                93.156855
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                93.156855, 
+                103.082448
+            ]
+        }
+    ]
+}

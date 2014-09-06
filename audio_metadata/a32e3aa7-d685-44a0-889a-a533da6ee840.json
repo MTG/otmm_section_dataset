@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "ad9fb46e-eb95-4446-93ad-e3bf13c01a95", 
+            "title": "U\u015f\u015fak Sazsemaisi"
+        }
+    ], 
+    "symbTr": "ussak--sazsemaisi--aksaksemai----dede_salih_efendi", 
+    "title": "U\u015f\u015fak Saz Sem\u00e2\u00ee (Mansur Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.016617, 
+                38.568607
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                38.568607, 
+                63.6274
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                63.6274, 
+                104.04052
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                104.04052, 
+                129.714151
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                130.104656, 
+                169.013916
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                169.013916, 
+                195.518408
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                195.518408, 
+                266.29122
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                266.29122, 
+                293.992154
+            ]
+        }
+    ]
+}

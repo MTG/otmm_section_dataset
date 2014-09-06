@@ -1,0 +1,77 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "1eb2ca1e-249b-424c-9ff5-0e1561590257", 
+            "title": "\u015eedaraban Sazsemaisi"
+        }
+    ], 
+    "symbTr": "sedaraban--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+    "title": "\u015eedd-i Arab\u00e2n Saz Sem\u00e2\u00eesi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.874444, 
+                31.461777
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                31.461777, 
+                62.140197
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                62.140197, 
+                97.336579
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                97.336579, 
+                127.286296
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                127.286296, 
+                167.947955
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                167.947955, 
+                199.081815
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                199.081815, 
+                273.77393
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                273.77393, 
+                313.706886
+            ]
+        }
+    ]
+}

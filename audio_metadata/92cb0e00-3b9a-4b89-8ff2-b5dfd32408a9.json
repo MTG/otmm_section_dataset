@@ -1,0 +1,29 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "38fe4825-4ccd-464c-b08c-49a9423decfc", 
+            "title": "Z\u00e2vil Pe\u015frev"
+        }
+    ], 
+    "symbTr": "zavil--pesrev--hafif----zeki_mehmed_aga", 
+    "title": "Zavil Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.349185, 
+                89.910039
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                89.910039, 
+                178.125503
+            ]
+        }
+    ]
+}

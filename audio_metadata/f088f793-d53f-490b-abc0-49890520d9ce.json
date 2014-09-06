@@ -1,0 +1,61 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Nev\u00e2 Pe\u015frev"
+        }
+    ], 
+    "symbTr": "neva--pesrev--devrikebir----tanburi_cemil_bey", 
+    "title": "Neva Pe\u015frev, M\u00fc\u015fterek Taksim", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                0.0, 
+                77.23554
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                77.23554, 
+                155.162312
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                155.162312, 
+                178.990298
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                178.990298, 
+                249.626516
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                249.626516, 
+                272.867605
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Musterek_taksim", 
+            "time": [
+                272.867605, 
+                464.091429
+            ]
+        }
+    ]
+}

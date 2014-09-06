@@ -1,0 +1,93 @@
+{
+    "instrumentation": "solo stringed", 
+    "work_relations": [
+        {
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
+    "symbTr": "kurdilihicazkar--pesrev--muhammes----tanburi_cemil_bey", 
+    "title": "Tanbur Taksimi, K\u00fcrdilihicazkar Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                0.0, 
+                136.660019
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                136.660019, 
+                194.545493
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                194.545493, 
+                222.655985
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                222.655985, 
+                278.185293
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                278.185293, 
+                306.756313
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                306.756313, 
+                359.445399
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                359.445399, 
+                385.079739
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                384.853886, 
+                475.359859
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                475.359859, 
+                506.588772
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                506.588772, 
+                512.1858
+            ]
+        }
+    ]
+}

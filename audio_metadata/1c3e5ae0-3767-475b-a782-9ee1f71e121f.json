@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "6ae39b1b-488c-4cb9-ab0f-f3752414a013", 
+            "title": "Rast Saz Sem\u00e2\u00ee"
+        }
+    ], 
+    "symbTr": "rast--sazsemaisi--aksaksemai----osman_bey", 
+    "title": "Rast Saz Sem\u00e2\u00ee (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.27864, 
+                24.6596
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                24.1952, 
+                47.3223
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                47.926, 
+                72.2605
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                72.3069, 
+                95.434
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                95.5269, 
+                119.5363
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                119.7221, 
+                142.942
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                143.1278, 
+                221.3326
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                223.0044, 
+                247.0603
+            ]
+        }
+    ]
+}

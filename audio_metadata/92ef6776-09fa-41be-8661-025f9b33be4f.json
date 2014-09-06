@@ -1,0 +1,85 @@
+{
+    "instrumentation": "solo singing", 
+    "work_relations": [
+        {
+            "mbid": "c6e43ac6-4a18-42ab-bcc4-46e29360051e", 
+            "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine"
+        }
+    ], 
+    "symbTr": "ussak--sarki--duyek--aksam_oldu_huzunlendim--semahat_ozdenses", 
+    "title": "Ak\u015fam Oldu H\u00fcz\u00fcnlendim Ben Yine", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                2.151437, 
+                31.156001
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                32.132116, 
+                51.594656
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                51.594656, 
+                70.459574
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                70.459574, 
+                87.173055
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                87.173055, 
+                105.579797
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                105.579797, 
+                123.568204
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                123.568204, 
+                142.094471
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                142.094471, 
+                158.548983
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat3", 
+            "time": [
+                158.548983, 
+                173.534342
+            ]
+        }
+    ]
+}

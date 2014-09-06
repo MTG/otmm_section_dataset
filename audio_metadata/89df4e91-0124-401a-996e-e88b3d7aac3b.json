@@ -1,0 +1,29 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "cd08674f-2ddf-4b0a-8d9d-8bfb5c163d9a", 
+            "title": "Nev\u00e2 Pe\u015frev"
+        }
+    ], 
+    "symbTr": "neva--pesrev--devrikebir----tanburi_cemil_bey", 
+    "title": "Neva Pe\u015frev (1. Hane - Teslim)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.647308, 
+                65.290822
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                65.290822, 
+                84.764052
+            ]
+        }
+    ]
+}

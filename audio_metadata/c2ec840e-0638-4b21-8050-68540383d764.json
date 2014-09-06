@@ -1,0 +1,101 @@
+{
+    "instrumentation": "instrumental solo with accompaniment", 
+    "work_relations": [
+        {
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin", 
+    "title": "Bir \u0130htimal Daha Var", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                0.0, 
+                43.7
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                43.7464, 
+                68.0809
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                68.3131, 
+                92.6476
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                93.2513, 
+                117.7252
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                117.9109, 
+                142.3383
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                142.7563, 
+                170.8524
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                171.0846, 
+                198.2055
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                197.5089, 
+                215.4812
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                215.5276, 
+                222.0756
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                222.1221, 
+                240.1408
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                240.1872, 
+                243.6702
+            ]
+        }
+    ]
+}

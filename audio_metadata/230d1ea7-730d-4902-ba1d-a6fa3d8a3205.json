@@ -1,0 +1,85 @@
+{
+    "instrumentation": "instrumental solo with accompaniment", 
+    "work_relations": [
+        {
+            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
+            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey", 
+    "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                0.383461, 
+                178.520072
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                178.520072, 
+                190.647358
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                190.647358, 
+                201.654249
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                201.654249, 
+                212.310618
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                212.310618, 
+                223.940978
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                223.940978, 
+                235.237726
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                235.237726, 
+                246.232077
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat3", 
+            "time": [
+                246.232077, 
+                257.599746
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                257.599746, 
+                268.115636
+            ]
+        }
+    ]
+}

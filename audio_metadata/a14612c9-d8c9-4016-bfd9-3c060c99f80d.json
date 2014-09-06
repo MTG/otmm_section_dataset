@@ -1,0 +1,69 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "83291c8a-4ef1-4ffc-8b50-3fc03890f5a4", 
+            "title": "\u015eedd-i Arab\u00e2n Pe\u015frev"
+        }
+    ], 
+    "symbTr": "sedaraban--pesrev--fahte----tanburi_cemil_bey", 
+    "title": "\u015eedaraban Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.611273, 
+                70.161953
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                70.161953, 
+                104.540616
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                104.540616, 
+                171.867304
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                171.867304, 
+                205.476458
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                205.476458, 
+                271.717162
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                271.717162, 
+                303.381948
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                303.381948, 
+                308.5003
+            ]
+        }
+    ]
+}

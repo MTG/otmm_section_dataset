@@ -1,0 +1,93 @@
+{
+    "instrumentation": "solo singing", 
+    "work_relations": [
+        {
+            "mbid": "ff8836b8-ee9b-4351-b30c-03b2aac0dc25", 
+            "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--koklasam_saclarini--artaki_candan", 
+    "title": "Koklasam Sa\u00e7lar\u0131n\u0131", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.438981, 
+                19.292461
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                19.292461, 
+                32.514873
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                32.514873, 
+                46.047599
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                46.047599, 
+                59.716561
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                59.716561, 
+                73.446073
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                73.446073, 
+                87.493466
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                87.493466, 
+                101.46139
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                101.46139, 
+                115.501215
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                115.501215, 
+                131.57322
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                131.57322, 
+                134.6293
+            ]
+        }
+    ]
+}

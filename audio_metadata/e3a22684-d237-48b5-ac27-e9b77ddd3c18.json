@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "80a81c87-eb6e-40dc-b69a-e0712b4374f2", 
+            "title": "Ferahfeza Sazsemaisi"
+        }
+    ], 
+    "symbTr": "ferahfeza--sazsemaisi--aksaksemai----serif_muhittin_targan", 
+    "title": "Ferah-Fez\u00e2 Saz Sem\u00e2\u00ee (Mansur Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.249466, 
+                28.404666
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                28.404666, 
+                56.224378
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                56.224378, 
+                85.631208
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                85.631208, 
+                111.330462
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                111.330462, 
+                165.369866
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                165.369866, 
+                193.516465
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                193.516465, 
+                272.932539
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                272.932539, 
+                304.382405
+            ]
+        }
+    ]
+}

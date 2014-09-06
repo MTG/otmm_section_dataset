@@ -1,0 +1,93 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "53bf3f1b-c618-425f-a179-d463db2ca918", 
+            "title": "Bir \u0130htimal Daha Var"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--duyek--bir_ihtimal--osman_nihat_akin", 
+    "title": "Bir \u0130htimal Daha Var", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                0.0, 
+                44.443
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                44.4894, 
+                70.5422
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                70.7744, 
+                97.013
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                97.013, 
+                122.3227
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                123.1586, 
+                150.326
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                150.7439, 
+                177.9113
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                178.6079, 
+                198.5771
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                198.6235, 
+                204.9393
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                204.9858, 
+                225.0014
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                225.0478, 
+                250.0789
+            ]
+        }
+    ]
+}

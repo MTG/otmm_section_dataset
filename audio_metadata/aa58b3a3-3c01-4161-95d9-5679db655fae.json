@@ -1,0 +1,157 @@
+{
+    "instrumentation": "instrumental solo with accompaniment", 
+    "work_relations": [
+        {
+            "mbid": "dac027fc-e3ca-47b1-90c7-bb64b02b7d9b", 
+            "title": "Nerelerde Kald\u0131n"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--turkaksagi--nerelerde_kaldin--ismail_hakki_efendi", 
+    "title": "Nerelerde Kald\u0131n?", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme_not_in_score", 
+            "time": [
+                0.283849, 
+                17.143227
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme_not_in_score", 
+            "time": [
+                17.143227, 
+                34.0405
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                34.0405, 
+                42.508715
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                42.508715, 
+                50.968037
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                50.968037, 
+                59.399286
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                59.399286, 
+                67.761912
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                67.761912, 
+                76.308571
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                76.308571, 
+                84.772572
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                84.772572, 
+                93.227215
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                93.227215, 
+                101.655344
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                101.655344, 
+                110.127143
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                110.127143, 
+                118.44298
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                118.44298, 
+                126.977163
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                126.977163, 
+                135.211901
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                135.211901, 
+                143.914522
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                143.914522, 
+                152.34889
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                152.34889, 
+                186.117554
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                186.117554, 
+                220.092086
+            ]
+        }
+    ]
+}

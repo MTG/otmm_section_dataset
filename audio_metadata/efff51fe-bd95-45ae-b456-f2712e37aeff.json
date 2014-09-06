@@ -1,0 +1,77 @@
+{
+    "instrumentation": "instrumental solo with accompaniment", 
+    "work_relations": [
+        {
+            "mbid": "4f6e9373-860f-4bcb-a661-b994feacab48", 
+            "title": "Aman Saki"
+        }
+    ], 
+    "symbTr": "huzzam--sarki--curcuna--kusade_taliim--sevki_bey", 
+    "title": "K\u00fc\u015fade Talim", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.70646, 
+                16.08429
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                16.08429, 
+                31.478549
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                31.478549, 
+                49.616503
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                49.616503, 
+                67.688739
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                67.688739, 
+                85.941697
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                85.941697, 
+                104.178226
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                104.178226, 
+                122.201175
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                122.201175, 
+                139.386228
+            ]
+        }
+    ]
+}

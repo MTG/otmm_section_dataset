@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "40300628-d472-4232-81ce-df599f4fbacc", 
+            "title": "S\u00fbz-i Dil Pe\u015frev"
+        }
+    ], 
+    "symbTr": "suzidil--pesrev--devrikebir----tanburi_ali_efendi", 
+    "title": "S\u00fbz-i Dil Pe\u015frev (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.141371, 
+                69.961471
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                69.961471, 
+                103.652907
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                103.652907, 
+                169.260164
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                169.260164, 
+                201.458727
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                201.458727, 
+                267.043365
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                267.043365, 
+                300.112771
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                300.112771, 
+                366.86513
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                366.86513, 
+                400.610286
+            ]
+        }
+    ]
+}

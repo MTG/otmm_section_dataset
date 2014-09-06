@@ -1,0 +1,69 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "10cddd5e-6bd8-4c69-8561-0d0541f46f34", 
+            "title": "H\u00fczzam Saz Semaisi"
+        }
+    ], 
+    "symbTr": "huzzam--sazsemaisi--aksaksemai----udi_nevres_bey", 
+    "title": "H\u00fczzam Saz Semaisi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                1.288663, 
+                32.208372
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                32.208372, 
+                64.51524
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                64.51524, 
+                97.819386
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                97.819386, 
+                131.59139
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                131.59139, 
+                164.538486
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                164.538486, 
+                199.504761
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                199.504761, 
+                287.347268
+            ]
+        }
+    ]
+}

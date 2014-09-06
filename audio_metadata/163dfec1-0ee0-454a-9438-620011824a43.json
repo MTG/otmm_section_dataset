@@ -1,0 +1,29 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "d689c032-ab60-4162-b872-b56cf3b24db6", 
+            "title": "K\u00fcrd\u00eelihicazk\u00e2r Pe\u015frevi"
+        }
+    ], 
+    "symbTr": "kurdilihicazkar--pesrev--muhammes----tanburi_cemil_bey", 
+    "title": "K\u00fcrdilihicazkar Pe\u015frevi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.461998, 
+                57.641821
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                57.641821, 
+                86.028734
+            ]
+        }
+    ]
+}

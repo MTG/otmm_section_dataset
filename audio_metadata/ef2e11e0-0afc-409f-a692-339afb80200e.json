@@ -1,0 +1,85 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "ac003195-9ea0-4d8e-8420-2d6c269e98f6", 
+            "title": "Muhayyer Sazsemaisi"
+        }
+    ], 
+    "symbTr": "muhayyer--sazsemaisi--aksaksemai----tanburi_cemil_bey", 
+    "title": "Muhayyer Saz Semai", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                23.629576
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                23.629576, 
+                53.326927
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                53.326927, 
+                74.804714
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                74.804714, 
+                102.871518
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                102.871518, 
+                134.279608
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                134.279608, 
+                162.493428
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                162.493428, 
+                184.038041
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                184.038041, 
+                205.950196
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                205.950196, 
+                234.865686
+            ]
+        }
+    ]
+}

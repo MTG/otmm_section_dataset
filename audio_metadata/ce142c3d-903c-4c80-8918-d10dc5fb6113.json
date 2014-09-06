@@ -1,0 +1,93 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "ecbd1847-79bd-4083-b9e5-833c90e6d8cc", 
+            "title": "H\u00fcseyni Sazsemaisi"
+        }
+    ], 
+    "symbTr": "huseyni--sazsemaisi--aksaksemai----tatyos_efendi", 
+    "title": "H\u00fcseyni Sazsemaisi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                16.650642
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                16.650642, 
+                32.079965
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                32.079965, 
+                47.427867
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                47.427867, 
+                62.185465
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                62.185465, 
+                77.838696
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                77.838696, 
+                92.107767
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                92.107767, 
+                106.417548
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                106.417548, 
+                150.22217
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                150.22217, 
+                163.856409
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                163.856409, 
+                177.416861
+            ]
+        }
+    ]
+}

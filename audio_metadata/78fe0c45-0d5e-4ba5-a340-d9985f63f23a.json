@@ -1,0 +1,93 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "97ffb9f6-7eca-4dc3-bc45-4d6c14e0fb2d", 
+            "title": "Seg\u00e2h Pe\u015frev"
+        }
+    ], 
+    "symbTr": "segah--pesrev--devrikebir----yusuf_pasa", 
+    "title": "Segah Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                45.081274
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                45.081274, 
+                88.74192
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                88.74192, 
+                129.821758
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                129.821758, 
+                171.138367
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                171.138367, 
+                211.602599
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                211.602599, 
+                252.197056
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                252.197056, 
+                291.749718
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                291.749718, 
+                331.906147
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Group_taksim", 
+            "time": [
+                331.906147, 
+                553.855657
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Suzinak_saz_semaisi", 
+            "time": [
+                553.855657, 
+                842.527347
+            ]
+        }
+    ]
+}

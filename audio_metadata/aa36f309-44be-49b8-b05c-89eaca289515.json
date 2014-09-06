@@ -1,0 +1,37 @@
+{
+    "instrumentation": "ensemble", 
+    "work_relations": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehn\u00e2z Pe\u015frev"
+        }
+    ], 
+    "symbTr": "sehnaz--pesrev--zencir----kemani_ali_aga", 
+    "title": "\u015eehnaz Pe\u015frevi", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.856209, 
+                58.445832
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                58.445832, 
+                100.556018
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                100.556018, 
+                104.6291
+            ]
+        }
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "instrumentation": "duo", 
+    "work_relations": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehn\u00e2z Pe\u015frev"
+        }
+    ], 
+    "symbTr": "sehnaz--pesrev--zencir----kemani_ali_aga", 
+    "title": "\u015eehnaz Pe\u015frev", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Introductory_speech", 
+            "time": [
+                0.0, 
+                6.674615
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                6.674615, 
+                37.485112
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                37.485112, 
+                98.450565
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                98.450565, 
+                138.257968
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                138.257968, 
+                196.445231
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                196.445231, 
+                236.497173
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                236.497173, 
+                288.376128
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                288.376128, 
+                326.174112
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                326.174112, 
+                382.431578
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                382.431578, 
+                419.284986
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                419.284986, 
+                424.0893
+            ]
+        }
+    ]
+}

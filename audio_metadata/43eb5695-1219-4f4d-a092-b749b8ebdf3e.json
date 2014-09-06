@@ -1,0 +1,77 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "b828b736-c0bc-4cf3-9842-eca119178dbe", 
+            "title": "G\u00fcl\u015fenin H\u00fcsn\u00fcne Kimler Var\u0131yor"
+        }
+    ], 
+    "symbTr": "hicaz--sarki--aksak--gulsen-i_husnune--rifat_bey", 
+    "title": "G\u00fcl\u015feni H\u00fcsn\u00fcne Kimler Var\u0131yor", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.0, 
+                11.03889
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                11.03889, 
+                22.07778
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                22.07778, 
+                32.714938
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                32.714938, 
+                42.987793
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                42.987793, 
+                53.769675
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                53.769675, 
+                64.831022
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                64.831022, 
+                75.847455
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                75.847455, 
+                87.861979
+            ]
+        }
+    ]
+}

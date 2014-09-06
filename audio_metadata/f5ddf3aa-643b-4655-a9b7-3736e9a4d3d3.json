@@ -1,0 +1,61 @@
+{
+    "instrumentation": "solo singing", 
+    "work_relations": [
+        {
+            "mbid": "0fc4212e-c3e4-4240-bc83-45cbba000876", 
+            "title": "R\u00fczgar S\u00f6yl\u00fcyor"
+        }
+    ], 
+    "symbTr": "muhayyerkurdi--sarki--duyek--ruzgar_soyluyor--sekip_ayhan_ozisik", 
+    "title": "R\u00fczgar S\u00f6yl\u00fcyor \u015eimdi O Yerlerde", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.143205, 
+                38.75651
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                38.75651, 
+                77.630188
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                77.630188, 
+                116.145853
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                116.145853, 
+                154.986984
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                154.986984, 
+                192.962376
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                192.962376, 
+                225.170507
+            ]
+        }
+    ]
+}

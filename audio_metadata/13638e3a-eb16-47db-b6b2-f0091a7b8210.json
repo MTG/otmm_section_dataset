@@ -1,0 +1,101 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "ff8836b8-ee9b-4351-b30c-03b2aac0dc25", 
+            "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--koklasam_saclarini--artaki_candan", 
+    "title": "Koklasam Sa\u00e7lar\u0131n\u0131 Bu Gece Ta Fecre Kadar", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                0.403484, 
+                20.943638
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Aranagme", 
+            "time": [
+                20.943638, 
+                41.89666
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                41.89666, 
+                56.562837
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                56.562837, 
+                71.33223
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                71.33223, 
+                86.202495
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                86.202495, 
+                101.316727
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                101.316727, 
+                116.635046
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                116.635046, 
+                131.813789
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                131.813789, 
+                146.980802
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                146.980802, 
+                163.551799
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Unsure", 
+            "time": [
+                163.551799, 
+                166.905
+            ]
+        }
+    ]
+}

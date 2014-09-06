@@ -1,0 +1,85 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "f8219131-cf9c-4a09-9ae5-14dfba2542c0", 
+            "title": "Bakm\u0131yor \u00c7e\u015fmi Siyah"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--bakmiyor_cesm-i--haci_arif_bey", 
+    "title": "Bakm\u0131yor \u00c7e\u015fm-i Siyah Feryade", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Usul_strokes", 
+            "time": [
+                0.0, 
+                6.33312
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                6.33312, 
+                18.70365
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                18.70365, 
+                31.148107
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                31.148107, 
+                43.612587
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                43.612587, 
+                55.987737
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                55.987737, 
+                68.345946
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                68.345946, 
+                80.888974
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat3", 
+            "time": [
+                80.888974, 
+                93.228701
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                93.228701, 
+                105.69164
+            ]
+        }
+    ]
+}

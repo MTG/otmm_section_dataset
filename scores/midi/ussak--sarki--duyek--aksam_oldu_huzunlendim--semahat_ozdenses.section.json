@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Zemin", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                0.0, 
+                15.989984
+            ]
+        }
+    }, 
+    {
+        "name": "Zemin", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                15.989984, 
+                31.966715
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                31.966715, 
+                43.947606
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat2", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                43.947606, 
+                59.999714
+            ]
+        }
+    }, 
+    {
+        "name": "Meyan", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                59.999714, 
+                76.007093
+            ]
+        }
+    }, 
+    {
+        "name": "Meyan2", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                76.007093, 
+                91.977197
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                91.977197, 
+                103.999505
+            ]
+        }
+    }, 
+    {
+        "name": "Nakarat3", 
+        "time": {
+            "unit": "sec", 
+            "val": [
+                103.999505, 
+                115.9
+            ]
+        }
+    }
+]

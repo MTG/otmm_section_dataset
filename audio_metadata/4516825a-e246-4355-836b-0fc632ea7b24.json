@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "8457bce2-07f0-4502-ae86-19b61c6bb77e", 
+            "title": "Yeg\u00e2h Saz Sem\u00e2\u00ee"
+        }
+    ], 
+    "symbTr": "yegah--sazsemaisi--aksaksemai----aziz_dede", 
+    "title": "Yeg\u00e2h Saz Sem\u00e2\u00ee (\u015eah Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.0, 
+                26.821518
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                26.821518, 
+                52.078085
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                52.078085, 
+                75.68276
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                75.68276, 
+                100.765444
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                100.765444, 
+                123.544173
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                123.544173, 
+                148.583386
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                148.583386, 
+                168.319154
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                168.319154, 
+                191.945565
+            ]
+        }
+    ]
+}

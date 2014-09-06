@@ -1,0 +1,77 @@
+{
+    "instrumentation": "ney", 
+    "work_relations": [
+        {
+            "mbid": "d1bb61c1-a779-4515-81f6-cda83473374a", 
+            "title": "\u015eehn\u00e2z Pe\u015frev"
+        }
+    ], 
+    "symbTr": "sehnaz--pesrev--zencir----kemani_ali_aga", 
+    "title": "\u015eehn\u00e2z Pe\u015frev (K\u0131z Ney)", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Hane1", 
+            "time": [
+                0.137985, 
+                81.562938
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                81.562938, 
+                136.135167
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane2", 
+            "time": [
+                136.135167, 
+                217.014008
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                217.014008, 
+                272.923334
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane3", 
+            "time": [
+                272.923334, 
+                354.890511
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                354.890511, 
+                410.799837
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Hane4", 
+            "time": [
+                410.799837, 
+                494.166302
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Teslim", 
+            "time": [
+                494.166302, 
+                552.065726
+            ]
+        }
+    ]
+}

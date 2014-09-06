@@ -1,0 +1,61 @@
+{
+    "instrumentation": "chorus", 
+    "work_relations": [
+        {
+            "mbid": "0fc4212e-c3e4-4240-bc83-45cbba000876", 
+            "title": "R\u00fczgar S\u00f6yl\u00fcyor"
+        }
+    ], 
+    "symbTr": "muhayyerkurdi--sarki--duyek--ruzgar_soyluyor--sekip_ayhan_ozisik", 
+    "title": "R\u00fczgar S\u00f6yl\u00fcyor", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Taksim", 
+            "time": [
+                0.0, 
+                21.12515
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                21.12515, 
+                55.503245
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                55.503245, 
+                89.986023
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                89.986023, 
+                124.531611
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                124.531611, 
+                159.056262
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                159.056262, 
+                184.871238
+            ]
+        }
+    ]
+}

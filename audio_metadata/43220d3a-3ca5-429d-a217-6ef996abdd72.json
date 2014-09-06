@@ -1,0 +1,77 @@
+{
+    "instrumentation": "solo singing", 
+    "work_relations": [
+        {
+            "mbid": "ff8836b8-ee9b-4351-b30c-03b2aac0dc25", 
+            "title": "Koklasam Sa\u00e7lar\u0131n\u0131"
+        }
+    ], 
+    "symbTr": "nihavent--sarki--aksak--koklasam_saclarini--artaki_candan", 
+    "title": "Koklasam Sa\u00e7lar\u0131n\u0131 Ta Fecre Kadar", 
+    "section_annotations": [
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                0.400515, 
+                15.627655
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Zemin", 
+            "time": [
+                15.627655, 
+                31.459347
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                31.459347, 
+                47.933374
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                47.933374, 
+                63.912425
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan", 
+            "time": [
+                63.912425, 
+                80.208865
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Meyan2", 
+            "time": [
+                80.208865, 
+                98.239612
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat", 
+            "time": [
+                98.239612, 
+                115.008359
+            ]
+        }, 
+        {
+            "time_unit": "sec", 
+            "name": "Nakarat2", 
+            "time": [
+                115.008359, 
+                131.142326
+            ]
+        }
+    ]
+}
