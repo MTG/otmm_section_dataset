@@ -1,0 +1,11 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	31	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+32	61	ARANAĞME	A2	INSTRUMENTAL		ARANAGME
+62	100	ZEMİN	B1	B1	Küşade taliim hem bahtım uygun  	ZEMIN
+101	141	ZEMİN	B2	B1	Küşade taliim hem bahtım uygun  	ZEMIN
+142	186	NAKARAT	C1	C1	Aman sâki bana hiç durma mey sun  	NAKARAT
+187	223	NAKARAT	D1	C1	Aman sâki bana hiç durma mey sun  	NAKARAT
+224	271	MEYAN	E1	D1	Gamım yok zevk_u şevkim hadden efzun  	MEYAN
+272	321	MEYAN	E2	D1	Gamım yok zevk_u şevkim hadden efzun  	MEYAN
+322	366	NAKARAT	C1	C1	Aman sâki bana hiç durma mey sun  	NAKARAT
+367	396	NAKARAT	D2	C1	Aman sâki bana hiç durma mey sun  	NAKARAT

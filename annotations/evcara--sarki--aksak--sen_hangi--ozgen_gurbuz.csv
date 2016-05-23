@@ -1,0 +1,16 @@
+start_note	end_note	name	melodic_structure	lyric_structure	lyrics	slug
+2	64	ARANAĞME	A1	INSTRUMENTAL		ARANAGME
+65	104	ZEMİN	B1	B1	Sen hangi telin nağmesi sandın ki bu bağrım  	ZEMIN
+105	138	ZEMİN	C1	B1	Sen hangi telin nağmesi sandın ki bu bağrım  	ZEMIN
+139	178	ZEMİN	B1	B1	Sen hangi telin nağmesi sandın ki bu bağrım  	ZEMIN
+179	212	ZEMİN	C2	B1	Sen hangi telin nağmesi sandın ki bu bağrım  	ZEMIN
+213	238	NAKARAT	D1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	NAKARAT
+239	275	NAKARAT	E1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	NAKARAT
+276	301	NAKARAT	D1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	NAKARAT
+302	338	NAKARAT	E2	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	NAKARAT
+339	372	MEYAN	F1	D1	İnletme bırak bilmediğin sanki ne kaldı  	MEYAN
+373	405	MEYAN	G1	D1	İnletme bırak bilmediğin sanki ne kaldı  	MEYAN
+406	439	MEYAN	F1	D1	İnletme bırak bilmediğin sanki ne kaldı  	MEYAN
+440	472	MEYAN	G2	D1	İnletme bırak bilmediğin sanki ne kaldı  	MEYAN
+473	498	NAKARAT	D1	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	NAKARAT
+499	528	NAKARAT	E3	C1	Mızrâbı elâ gözlerinin verdiği ağrım  	NAKARAT
