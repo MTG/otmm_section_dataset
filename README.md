@@ -23,4 +23,4 @@ The repository contains a test dataset of SymbTr-scores in the txt and pdf forma
                       special characters handled.
 ```
 
-For additional information please contact the authors.
+For the details of the dataset, please refer to the paper. For any further information please contact the authors.
