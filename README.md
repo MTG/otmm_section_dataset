@@ -4,9 +4,7 @@ The section test dataset of music scores of Ottoman-Turkish makam music
 
 This repository contains the audio section annotations and the scores used in the paper:
 
-```
-Şentürk, S., & Serra X. (2016). A method for structural analysis of Ottoman-Turkish makam music scores. In Proceedings of 6th International Workshop on Folk Music Analysis, (pp. XX–XX)., Dublin, Ireland.
-```
+> Şentürk, S., & Serra X. (2016). A method for structural analysis of Ottoman-Turkish makam music scores. In Proceedings of 6th International Workshop on Folk Music Analysis, (pp. XX–XX)., Dublin, Ireland.
 
 Please cite the publication above in any work using this dataset.
 
