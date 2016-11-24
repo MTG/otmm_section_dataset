@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/23741898.svg)](https://zenodo.org/badge/latestdoi/23741898)
+[![DOI](https://zenodo.org/badge/23741898.svg)](https://zenodo.org/badge/latestdoi/23741898) [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-ff69b4.svg)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 makam_section_test_dataset
 ==========================
