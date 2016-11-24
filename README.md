@@ -19,3 +19,7 @@ Remarks:
 - In the original symbTr format the sections are given in the "Soz1" (Lyrics1) field. This field is used for the lyrics of the vocal compositions and the sections of the instrumental compositions. We created another field called "Bolum1" (Section1) for the dedicated to sections. 
 In the instrumental compositions, we copied the section names already given in the "Soz1" field and manually corrected any erroneous jumps.
 For the vocal compositions, we manually labeled the score sections from the repetitions in the the lyrics and the melody. In the future we plan to automate the extraction from the repetition of the symbolic lyrics and melody repetitions.
+
+<a name="License"></a>License
+--------------------
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
