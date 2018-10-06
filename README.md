@@ -18,7 +18,7 @@ Remarks:
 - The "title" fields in the audio_metadata might have unicode characters.
 - In the original symbTr format the sections are given in the "Soz1" (Lyrics1) field. This field is used for the lyrics of the vocal compositions and the sections of the instrumental compositions. We created another field called "Bolum1" (Section1) for the dedicated to sections. 
 In the instrumental compositions, we copied the section names already given in the "Soz1" field and manually corrected any erroneous jumps.
-For the vocal compositions, we manually labeled the score sections from the repetitions in the the lyrics and the melody. In the future we plan to automate the extraction from the repetition of the symbolic lyrics and melody repetitions.
+For the vocal compositions, we manually labeled the score sections from the repetitions in the lyrics and the melody. In the future we plan to automate the extraction from the repetition of the symbolic lyrics and melody repetitions.
 
 <a name="License"></a>License
 --------------------
